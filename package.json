@@ -1,0 +1,24 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "this is all about my node training",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navakumark/navarepo.git"
+  },
+  "author": "navaraj1983@gmail.com (http://nava.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navakumark/navarepo/issues"
+  },
+  "homepage": "https://github.com/navakumark/navarepo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "jasmine-core": "2.8.0",
+    "underscore": "1.8.3"
+  }
+}
